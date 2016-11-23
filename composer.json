@@ -1,0 +1,12 @@
+{
+    "name": "mileswu/php-jwt-example",
+    "authors": [
+        {
+            "name": "miles",
+            "email": "slion0725@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^4.0"
+    }
+}
